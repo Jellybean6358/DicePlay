@@ -1,0 +1,2 @@
+com/example/diceplay/BuildConfig.java
+ com.example.diceplay.BuildConfig
